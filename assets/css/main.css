@@ -144,7 +144,19 @@ body {
 }
 
 .section-header h1 {
+  margin-bottom: 0.25rem;
+}
+
+.section-subtitle {
+  font-size: 1.1rem;
+  color: var(--color-muted);
   margin-bottom: 0.5rem;
+}
+
+.section-header .author {
+  font-size: 0.95rem;
+  color: var(--color-muted);
+  margin-top: 1rem;
 }
 
 .section-description {
@@ -269,6 +281,13 @@ body {
 
 .chapter-number {
   margin-left: 1rem;
+}
+
+.chapter-summary-header {
+  font-size: 1.05rem;
+  color: var(--color-muted);
+  font-style: italic;
+  margin-top: 0.5rem;
 }
 
 .revision {
