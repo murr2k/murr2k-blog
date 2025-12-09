@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<article class="link-page">
+  <header class="link-header">
+    <h1>{{ page.title }}</h1>
+    <div class="link-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+      <span class="external-indicator">External Article</span>
+    </div>
+  </header>
+
+  {% if page.description or content != "" %}
+  <div class="link-description">
+    {% if content != "" %}
+      {{ content }}
+    {% else %}
+      <p>{{ page.description }}</p>
+    {% endif %}
+  </div>
+  {% endif %}
+
+  <div class="link-action">
+    <a href="{{ page.url_external }}" class="external-link" target="_blank" rel="noopener">
+      Read on LinkedIn &rarr;
+    </a>
+  </div>
+
+  <footer class="link-footer">
+    <a href="{{ '/linkedin/' | relative_url }}">&larr; Back to LinkedIn Articles</a>
+  </footer>
+</article>

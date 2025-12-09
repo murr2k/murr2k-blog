@@ -1,0 +1,58 @@
+# Site settings
+title: Murray Kopit
+description: Physics, AI, and Embedded Systems
+url: "https://murr2k-blog.netlify.app"
+baseurl: ""
+
+# Author
+author:
+  name: Murray Kopit
+  email: murr2k@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Collections - each becomes a section
+collections:
+  physics:
+    output: true
+    permalink: /physics/:path/
+    order:
+      - 01-introduction.md
+      - 02-proper-space-kinematics.md
+      - 03-spatial-density.md
+  ai:
+    output: true
+    permalink: /ai/:path/
+  linkedin:
+    output: true
+    permalink: /linkedin/:path/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "physics"
+    values:
+      layout: "chapter"
+      section: "physics"
+  - scope:
+      path: ""
+      type: "ai"
+    values:
+      layout: "post"
+      section: "ai"
+  - scope:
+      path: ""
+      type: "linkedin"
+    values:
+      layout: "link"
+      section: "linkedin"
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

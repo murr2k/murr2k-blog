@@ -1,0 +1,21 @@
+[build]
+  command = "jekyll build"
+  publish = "_site"
+
+[build.environment]
+  RUBY_VERSION = "3.2"
+  JEKYLL_ENV = "production"
+
+# Redirects (add custom redirects here)
+# [[redirects]]
+#   from = "/old-path"
+#   to = "/new-path"
+#   status = 301
+
+# Headers for security
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"

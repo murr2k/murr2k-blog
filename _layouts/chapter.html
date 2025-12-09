@@ -1,0 +1,52 @@
+---
+layout: default
+---
+<article class="chapter">
+  <header class="chapter-header">
+    <div class="chapter-meta">
+      <span class="section-label">Proper Space Kinematics</span>
+      {% if page.chapter %}<span class="chapter-number">Chapter {{ page.chapter }}</span>{% endif %}
+    </div>
+    <h1>{{ page.title }}</h1>
+    {% if page.revision %}
+    <p class="revision">Revision {{ page.revision }} — {{ page.date | date: "%B %d, %Y" }}</p>
+    {% endif %}
+  </header>
+
+  <div class="chapter-content">
+    {{ content }}
+  </div>
+
+  <nav class="chapter-nav">
+    {% assign sorted = site.physics | sort: "chapter" %}
+    {% assign current_index = nil %}
+    {% for item in sorted %}
+      {% if item.url == page.url %}
+        {% assign current_index = forloop.index0 %}
+      {% endif %}
+    {% endfor %}
+    
+    {% if current_index %}
+      {% assign prev_index = current_index | minus: 1 %}
+      {% assign next_index = current_index | plus: 1 %}
+      
+      <div class="nav-prev">
+        {% if prev_index >= 0 %}
+          {% assign prev = sorted[prev_index] %}
+          <a href="{{ prev.url | relative_url }}">&larr; {{ prev.title }}</a>
+        {% endif %}
+      </div>
+      
+      <div class="nav-toc">
+        <a href="{{ '/physics/' | relative_url }}">Table of Contents</a>
+      </div>
+      
+      <div class="nav-next">
+        {% if next_index < sorted.size %}
+          {% assign next = sorted[next_index] %}
+          <a href="{{ next.url | relative_url }}">{{ next.title }} &rarr;</a>
+        {% endif %}
+      </div>
+    {% endif %}
+  </nav>
+</article>

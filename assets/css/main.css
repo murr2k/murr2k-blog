@@ -1,0 +1,372 @@
+/* Reset and base */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+:root {
+  --color-bg: #fafafa;
+  --color-text: #1a1a1a;
+  --color-muted: #666;
+  --color-border: #e0e0e0;
+  --color-accent: #2563eb;
+  --color-physics: #7c3aed;
+  --color-ai: #059669;
+  --color-linkedin: #0077b5;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-mono: "SF Mono", Consolas, monospace;
+  --max-width: 48rem;
+}
+
+body {
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  line-height: 1.7;
+  color: var(--color-text);
+  background: var(--color-bg);
+  margin: 0;
+  padding: 0;
+}
+
+/* Navigation */
+.site-nav {
+  border-bottom: 1px solid var(--color-border);
+  padding: 1rem 0;
+}
+
+.nav-container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-title {
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: var(--color-text);
+  text-decoration: none;
+}
+
+.nav-links {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.nav-links a {
+  color: var(--color-muted);
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.nav-links a:hover {
+  color: var(--color-accent);
+}
+
+/* Main content */
+.content {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+/* Landing page */
+.landing-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.landing-header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.tagline {
+  color: var(--color-muted);
+  font-size: 1.1rem;
+}
+
+.section-cards {
+  display: grid;
+  gap: 1.5rem;
+}
+
+@media (min-width: 640px) {
+  .section-cards {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.section-card {
+  display: block;
+  padding: 1.5rem;
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.section-card:hover {
+  border-color: var(--color-accent);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.card-icon {
+  font-size: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+.section-card h2 {
+  font-size: 1.1rem;
+  margin: 0 0 0.5rem 0;
+}
+
+.section-card p {
+  font-size: 0.9rem;
+  color: var(--color-muted);
+  margin: 0 0 1rem 0;
+}
+
+.card-meta {
+  font-size: 0.8rem;
+  color: var(--color-muted);
+}
+
+.section-card.physics { border-left: 3px solid var(--color-physics); }
+.section-card.ai { border-left: 3px solid var(--color-ai); }
+.section-card.linkedin { border-left: 3px solid var(--color-linkedin); }
+
+/* Section index pages */
+.section-header {
+  margin-bottom: 2rem;
+}
+
+.section-header h1 {
+  margin-bottom: 0.5rem;
+}
+
+.section-description {
+  color: var(--color-muted);
+  font-size: 1.05rem;
+}
+
+/* Chapter list (physics TOC) */
+.chapter-list {
+  list-style: none;
+  padding: 0;
+}
+
+.chapter-list li {
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.chapter-list a {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  text-decoration: none;
+  color: var(--color-text);
+}
+
+.chapter-list a:hover .chapter-title {
+  color: var(--color-accent);
+}
+
+.chapter-revision {
+  font-size: 0.8rem;
+  color: var(--color-muted);
+}
+
+.chapter-summary {
+  font-size: 0.9rem;
+  color: var(--color-muted);
+  margin: 0.5rem 0 0 0;
+}
+
+/* Post list (AI articles) */
+.post-preview {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.post-preview h2 {
+  font-size: 1.2rem;
+  margin: 0 0 0.5rem 0;
+}
+
+.post-preview h2 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.post-preview h2 a:hover {
+  color: var(--color-accent);
+}
+
+.post-meta {
+  font-size: 0.85rem;
+  color: var(--color-muted);
+  margin-bottom: 0.5rem;
+}
+
+.tag {
+  background: var(--color-border);
+  padding: 0.1rem 0.5rem;
+  border-radius: 3px;
+  font-size: 0.75rem;
+  margin-left: 0.5rem;
+}
+
+.excerpt {
+  color: var(--color-muted);
+  margin: 0;
+}
+
+/* Link list (LinkedIn) */
+.link-preview {
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.link-preview h2 {
+  font-size: 1.1rem;
+  margin: 0 0 0.25rem 0;
+}
+
+.link-preview h2 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.link-preview h2 a:hover {
+  color: var(--color-linkedin);
+}
+
+.external-icon {
+  font-size: 0.8em;
+  margin-left: 0.25rem;
+}
+
+/* Article pages */
+.chapter-header, .post-header, .link-header {
+  margin-bottom: 2rem;
+}
+
+.chapter-meta {
+  font-size: 0.85rem;
+  color: var(--color-muted);
+  margin-bottom: 0.5rem;
+}
+
+.section-label {
+  color: var(--color-physics);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.chapter-number {
+  margin-left: 1rem;
+}
+
+.revision {
+  font-size: 0.9rem;
+  color: var(--color-muted);
+}
+
+/* Chapter navigation */
+.chapter-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--color-border);
+  font-size: 0.9rem;
+}
+
+.chapter-nav a {
+  color: var(--color-accent);
+  text-decoration: none;
+}
+
+.nav-toc {
+  color: var(--color-muted);
+}
+
+/* Content styling */
+.chapter-content, .post-content {
+  line-height: 1.8;
+}
+
+.chapter-content h2, .post-content h2 {
+  margin-top: 2rem;
+}
+
+.chapter-content code, .post-content code {
+  font-family: var(--font-mono);
+  font-size: 0.9em;
+  background: #f0f0f0;
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+}
+
+.chapter-content pre, .post-content pre {
+  background: #1a1a1a;
+  color: #f0f0f0;
+  padding: 1rem;
+  border-radius: 6px;
+  overflow-x: auto;
+}
+
+.chapter-content pre code, .post-content pre code {
+  background: none;
+  padding: 0;
+}
+
+/* External link button */
+.link-action {
+  margin: 2rem 0;
+}
+
+.external-link {
+  display: inline-block;
+  background: var(--color-linkedin);
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.external-link:hover {
+  background: #005fa3;
+}
+
+/* Footer */
+.site-footer {
+  border-top: 1px solid var(--color-border);
+  padding: 2rem 0;
+  margin-top: 3rem;
+}
+
+.footer-container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  text-align: center;
+  color: var(--color-muted);
+  font-size: 0.9rem;
+}
+
+.post-footer, .link-footer {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--color-border);
+}
+
+.post-footer a, .link-footer a {
+  color: var(--color-accent);
+  text-decoration: none;
+}
