@@ -85,11 +85,11 @@ Let us begin.
 
 The seed was planted in a high school physics classroom, sometime in the late 1970s. I don't remember the exact year — perhaps grade 9, perhaps grade 11. What I remember is the experiment: a mass on a paper tape, running through a spark gap that fired at a constant rate. We measured the distance intervals between spark marks to calculate the acceleration due to gravity. 32 feet per second squared. The mathematics worked.
 
-*Why does gravity happen?*After the module on gravitation — Newton's inverse square law, orbital mechanics, the mathematics of attraction between masses — I raised my hand and asked the teacher: 
+After the module on gravitation — Newton's inverse square law, orbital mechanics, the mathematics of attraction between masses — I raised my hand and asked the teacher: *Why does gravity happen?*
 
 He answered honestly: We don't know.
 
-*how**why*The mathematics described  gravity behaved — the force proportional to the product of masses, inversely proportional to the square of distance. But the mathematics said nothing about  mass should attract mass at all. What mechanism produced this effect? What was actually happening?
+The mathematics described *how* gravity behaved — the force proportional to the product of masses, inversely proportional to the square of distance. But the mathematics said nothing about *why* mass should attract mass at all. What mechanism produced this effect? What was actually happening?
 
 My teenage mind went immediately to the practical: if I understood how gravity worked, perhaps I could invent an anti-gravity machine. That aspiration stayed with me for decades — not fading, but waiting for resolution.
 
@@ -119,7 +119,7 @@ The months since have been a collaboration — refining the framework, extending
 
 I am not a professional physicist. I am an embedded systems engineer who has spent over four decades intermittently obsessed with a question my high school physics teacher couldn't answer. PSK may be wrong. The stellar age problem remains unresolved. The mathematical formalization is incomplete. The predictions are untested.
 
-*why does gravity happen?*But the question that started this —  — now has a candidate answer. Matter maintains its proper volume in densifying space, leaving density gradients that other matter follows. Whether this answer survives scrutiny, I cannot say. But it is an answer worth examining.
+But the question that started this — *why does gravity happen?* — now has a candidate answer. Matter maintains its proper volume in densifying space, leaving density gradients that other matter follows. Whether this answer survives scrutiny, I cannot say. But it is an answer worth examining.
 
 That is why I offer PSK for your consideration.
 
@@ -137,7 +137,7 @@ A detailed comparison of the two frameworks appears in Appendix A.
 
 This treatise offers an alternative geometric interpretation of observed physical phenomena. It does not dispute empirical results or claim that established frameworks are incorrect. Rather, it proposes that a single geometric process—spatial densification—may constitute an explanatory substrate underlying what we observe.
 
-*that**why*The goal is not to supplant general relativity, quantum mechanics, or thermodynamics. These frameworks successfully describe and predict physical behavior. The goal is to explore whether an alternative set of geometric assumptions might yield the same observational consequences while offering new conceptual insights—to explain not merely  physical laws work, but  they might work.
+The goal is not to supplant general relativity, quantum mechanics, or thermodynamics. These frameworks successfully describe and predict physical behavior. The goal is to explore whether an alternative set of geometric assumptions might yield the same observational consequences while offering new conceptual insights—to explain not merely *that* physical laws work, but *why* they might work.
 
 Proper Space Kinematics (PSK) rests on a single postulate: space densifies uniformly and isotropically at the constant rate c. From this foundation, the framework attempts to derive gravitation, cosmological structure, electromagnetic phenomena, thermodynamic behavior, and quantum effects as geometric consequences rather than independent physical laws.
 
@@ -162,17 +162,17 @@ What follows is not a sequence of separate postulates. It is one picture, viewed
 
 **Space densifies. Matter equilibrates.**
 
-*is*Spatial densification is not a single effect — it  two geometric aspects operating simultaneously, like meshed gears turning in opposite directions from a single motion:
+Spatial densification is not a single effect — it *is* two geometric aspects operating simultaneously, like meshed gears turning in opposite directions from a single motion:
 
 **Convergence: **A drawing-together. One geometric aspect of densification.
 
 **Divergence: **A spreading-apart. Space accumulating between points, proportional to distance. The other geometric aspect of densification.
 
-*is*These are not two separate effects that densification causes. They are what densification 
+These are not two separate effects that densification causes. They are what densification *is*
 
 Where matter is present, it reaches volumetric equilibrium between convergence and divergence. The equilibrium point is set by the rate of densification, c. This equilibrium determines matter's constant proper volume — the scale at which matter balances convergence and divergence as it traverses into denser states.
 
-*wake**is*Matter maintaining this equilibrium as it traverses into denser spatial states leaves a temporal gradient in the density field — a . The wake encodes matter's density-state history: at earlier times (lower density states), the same matter occupied a different geometric relationship to surrounding space. This history persists as a gradient structure pointing toward where matter  in the ongoing densification process.
+Matter maintaining this equilibrium as it traverses into denser spatial states leaves a temporal gradient in the density field — a *wake*. The wake encodes matter's density-state history: at earlier times (lower density states), the same matter occupied a different geometric relationship to surrounding space. This history persists as a gradient structure pointing toward where matter *is* in the ongoing densification process.
 
 Other matter and light follow the wake. This is what we observe and call gravitational attraction (for matter) and gravitational lensing (for light). The wake is not gravitation itself — gravitation is the name we give to the observable consequences of wake-following.
 
@@ -184,9 +184,9 @@ This process has been occurring eternally. As t → −∞, ρ → 0 — an asym
 
 Space is geometrically infinite in extent, but the quantity of matter is finite. At very low spatial density (the infinite past), this finite matter was spread thin enough to remain contiguous — no voids existed because finite matter could fill the sparse space continuously. Matter found volumetric equilibrium while remaining in contact everywhere.
 
-*_critical**requires*As spatial density increased, a threshold was reached: ρ. At this density, finite matter could no longer remain contiguous through infinite space. Voids appeared — not because divergence began to exceed convergence (their ratio never changes), but because finite matter in increasingly dense space geometrically  gaps. There simply is not enough matter to fill space continuously at higher densities.
+As spatial density increased, a threshold was reached: ρ*_critical*. At this density, finite matter could no longer remain contiguous through infinite space. Voids appeared — not because divergence began to exceed convergence (their ratio never changes), but because finite matter in increasingly dense space geometrically *requires* gaps. There simply is not enough matter to fill space continuously at higher densities.
 
-*_critical*Since ρ, voids have grown as densification continues at the same constant rate, the same convergence/divergence proportion. Finite matter clumps (the convergence aspect) while voids expand between clumps (the divergence aspect). This is why entropy increases — void is increasing, more possible configurations, more separation. This is also gravitation, orbits, galaxies, black holes — matter coalescing as voids grow around it.
+Since ρ*_critical*, voids have grown as densification continues at the same constant rate, the same convergence/divergence proportion. Finite matter clumps (the convergence aspect) while voids expand between clumps (the divergence aspect). This is why entropy increases — void is increasing, more possible configurations, more separation. This is also gravitation, orbits, galaxies, black holes — matter coalescing as voids grow around it.
 
 The universe did not begin at this threshold. Matter did not appear. What changed was configuration: from contiguous plasma filling infinite space at low density, to separated structures with voids between them at higher density.
 
@@ -208,7 +208,7 @@ From Earth, we observe a horizon at approximately 13.8 billion light-years—the
 
 ### What Always Existed
 
-*_critical*The following have operated for all eternity — before ρ as well as after:
+The following have operated for all eternity — before ρ*_critical* as well as after:
 
 **Densification: **Space becoming denser at rate c, everywhere, uniformly.
 
@@ -222,11 +222,11 @@ From Earth, we observe a horizon at approximately 13.8 billion light-years—the
 
 **Finite Matter in Infinite Space: **Space is geometrically infinite in extent; the quantity of matter is finite. This relationship has always held.
 
-*_critical**configuration*What changed at ρ was not these processes. They continued unaltered — same rate c, same convergence/divergence proportion, same equilibrium. What changed was .
+What changed at ρ*_critical* was not these processes. They continued unaltered — same rate c, same convergence/divergence proportion, same equilibrium. What changed was *configuration*.
 
-*_critical**touching itself*Before ρ, finite matter at low spatial density was spread thin enough to remain contiguous. No voids existed. The Hubble horizon existed but was thermally irrelevant — contiguous matter is in direct physical contact regardless of recession velocity. Thermal equilibrium occurred through contact, not through signaling across voids. The primordial plasma was uniform because it was  everywhere.
+Before ρ*_critical*, finite matter at low spatial density was spread thin enough to remain contiguous. No voids existed. The Hubble horizon existed but was thermally irrelevant — contiguous matter is in direct physical contact regardless of recession velocity. Thermal equilibrium occurred through contact, not through signaling across voids. The primordial plasma was uniform because it was *touching itself* everywhere.
 
-*_critical*After ρ, spatial density had increased to where finite matter could no longer remain contiguous through infinite space. Voids appeared — geometrically required. With voids between structures, the Hubble horizon became relevant. State-mapping — what we observe as light, as electromagnetic interaction, as causal connection — can only link matter within each other's horizons. The same geometric processes that operated on contiguous plasma now operate on separated structures — but now the horizon defines the boundary of causal connectivity.
+After ρ*_critical*, spatial density had increased to where finite matter could no longer remain contiguous through infinite space. Voids appeared — geometrically required. With voids between structures, the Hubble horizon became relevant. State-mapping — what we observe as light, as electromagnetic interaction, as causal connection — can only link matter within each other's horizons. The same geometric processes that operated on contiguous plasma now operate on separated structures — but now the horizon defines the boundary of causal connectivity.
 
 ### No Initial Condition
 
@@ -234,13 +234,13 @@ This picture requires no special starting configuration.
 
 PSK faces no such problem. There was no initial state. Densification has proceeded eternally. At ρ → 0 (t → −∞), both convergence and divergence approach zero — there are no density gradients to follow, no metric expansion to separate. The only possible configuration is uniform distribution: matter everywhere, with nothing to clump it or separate it. This is not a special state requiring explanation; it is the unique equilibrium at vanishing density.
 
-*is*The arrow of time—why entropy increases, why we remember the past but not the future, why causes precede effects—is equally natural. Time  densification. The direction of time is the direction of increasing ρ. We traverse from sparser to denser density states; the reverse is geometrically impossible because sparser configurations no longer exist. Entropy increases because equilibration events accumulate along the densification trajectory.
+The arrow of time—why entropy increases, why we remember the past but not the future, why causes precede effects—is equally natural. Time *is* densification. The direction of time is the direction of increasing ρ. We traverse from sparser to denser density states; the reverse is geometrically impossible because sparser configurations no longer exist. Entropy increases because equilibration events accumulate along the densification trajectory.
 
 ### One Process, Every Phenomenon
 
 PSK proposes that phenomena currently explained by separate mechanisms are all manifestations of spatial densification:
 
-**Gravitation ***is*is the density gradient (wake) that matter creates as it maintains equilibrium in densifying space. Other matter follows these gradients—not because of a force, but because the gradient  the local geometry.
+**Gravitation **is the density gradient (wake) that matter creates as it maintains equilibrium in densifying space. Other matter follows these gradients—not because of a force, but because the gradient *is* the local geometry.
 
 **The strong nuclear force **is the same wake-following at nuclear scales, where gradients are steep and equilibrium is tight.
 
@@ -290,9 +290,9 @@ Convergence and divergence are what densification is — two geometric aspects i
 
 The equilibrium point is set by c. This equilibrium produces the wake structure around matter, atomic and nuclear structure, and the stability of matter at all scales.
 
-*steady-state configuration*Crucially, the gravitational gradient around matter is a  — the equilibrium shape the spatial density field assumes when matter is present. Matter maintaining constant proper volume leaves a temporal gradient — a wake — as it traverses into denser states. This wake structure is what we experience as gravity. It is also what general relativity describes as spacetime curvature: the wake geometry defines the paths — geodesics — that light, matter, and perturbations follow. PSK and GR describe the same geometric reality in different languages.
+Crucially, the gravitational gradient around matter is a *steady-state configuration* — the equilibrium shape the spatial density field assumes when matter is present. Matter maintaining constant proper volume leaves a temporal gradient — a wake — as it traverses into denser states. This wake structure is what we experience as gravity. It is also what general relativity describes as spacetime curvature: the wake geometry defines the paths — geodesics — that light, matter, and perturbations follow. PSK and GR describe the same geometric reality in different languages.
 
-*time-varying perturbations*Distinct from this static structure are 
+Distinct from this static structure are *time-varying perturbations*
 
 #### The Geometry of Space
 
@@ -300,7 +300,7 @@ Space is flat, Euclidean, three-dimensional, infinite in extent, homogeneous, an
 
 #### Space and Time, Not Spacetime
 
-*is*Space and time are ontologically distinct. Space is the geometric substrate that densifies. Time  that densification—not a fourth dimension, but the process itself. There is no unified spacetime manifold. The past (sparser configurations) no longer exists geometrically. The future (denser configurations) has not yet emerged.
+Space and time are ontologically distinct. Space is the geometric substrate that densifies. Time *is* that densification—not a fourth dimension, but the process itself. There is no unified spacetime manifold. The past (sparser configurations) no longer exists geometrically. The future (denser configurations) has not yet emerged.
 
 This ontological difference does not imply different predictions for gravitational phenomena in tested regimes. PSK proposes that density gradients in flat 3D space and GR's geodesics in curved 4D spacetime are two geometric languages describing the same physical reality. In tested regimes, PSK is designed to avoid contradiction with GR's predictions for all solar system tests, gravitational wave observations, and cosmological measurements. The frameworks differ in what they claim is fundamentally real, not in what they predict will be measured.
 
@@ -317,9 +317,9 @@ The invariance of c across reference frames is geometric necessity: every observ
 
 ### What Time Is
 
-*is*Recall that densification  two geometric aspects — convergence and divergence — operating simultaneously in constant proportion. Time is this process. Where matter is present, it finds volumetric equilibrium between convergence and divergence; time dilation reflects displacement within this equilibrium. The deeper you sit in a gravitational wake, or the more you have accelerated, the more displaced you are from the baseline equilibrium — and the more your clock diverges from clocks at that baseline.
+Recall that densification *is* two geometric aspects — convergence and divergence — operating simultaneously in constant proportion. Time is this process. Where matter is present, it finds volumetric equilibrium between convergence and divergence; time dilation reflects displacement within this equilibrium. The deeper you sit in a gravitational wake, or the more you have accelerated, the more displaced you are from the baseline equilibrium — and the more your clock diverges from clocks at that baseline.
 
-*is*When we measure time with clocks, we count cycles of matter maintaining equilibrium through densifying space. The clock does not measure an external flow; the clock  densification occurring, enumerated. But the densification would proceed identically without the clock.
+When we measure time with clocks, we count cycles of matter maintaining equilibrium through densifying space. The clock does not measure an external flow; the clock *is* densification occurring, enumerated. But the densification would proceed identically without the clock.
 
 ### Time Dilation as Density Displacement
 
@@ -359,15 +359,15 @@ The redshift we observe from distant galaxies is not velocity-based time dilatio
 
 #### The Supernova Challenge
 
-*potentially falsifying*This claim faces a significant empirical challenge—one that is . Observations of Type Ia supernovae at high redshift show light curves stretched by a factor (1+z)—precisely what standard cosmology predicts from time dilation due to Hubble recession. If PSK is correct that Hubble velocity produces no time dilation, this (1+z) stretching requires alternative explanation. A framework that cannot account for supernova time dilation observations cannot be correct, regardless of its other virtues.
+This claim faces a significant empirical challenge—one that is *potentially falsifying*. Observations of Type Ia supernovae at high redshift show light curves stretched by a factor (1+z)—precisely what standard cosmology predicts from time dilation due to Hubble recession. If PSK is correct that Hubble velocity produces no time dilation, this (1+z) stretching requires alternative explanation. A framework that cannot account for supernova time dilation observations cannot be correct, regardless of its other virtues.
 
 **Possible responses:**
 
-**PSK is wrong. **1. The supernova observations falsify the framework. This is a legitimate conclusion if no resolution is found.
+1. **PSK is wrong. **The supernova observations falsify the framework. This is a legitimate conclusion if no resolution is found.
 
-**The stretching has a different origin. **2. The observed (1+z) factor might arise from density-state differentials in how light maps between emission and observation, rather than from time dilation per se. This requires detailed modeling that has not been done.
+2. **The stretching has a different origin. **The observed (1+z) factor might arise from density-state differentials in how light maps between emission and observation, rather than from time dilation per se. This requires detailed modeling that has not been done.
 
-**PSK's prediction requires modification. **3. 
+3. **PSK's prediction requires modification. **
 
 We do not claim to have resolved this problem. This represents the most serious empirical challenge PSK faces and is discussed further in Part VI and the Discussion section.
 
@@ -396,23 +396,23 @@ General relativity interprets gravity as the curvature of spacetime caused by ma
 
 Before presenting PSK's interpretation of gravitation, we must establish the geometric foundation from which it emerges.
 
-*is*Space densifies at rate c. This is PSK's single postulate. But densification is not a single effect — it  two geometric aspects operating simultaneously:
+Space densifies at rate c. This is PSK's single postulate. But densification is not a single effect — it *is* two geometric aspects operating simultaneously:
 
 **Convergence: **A drawing-together.
 
 **Divergence: **Space accumulating between points, proportional to distance.
 
-*is*These are not two separate effects caused by densification. They are what densification , geometrically — like meshed gears turning in opposite directions from a single motion. You cannot have one without the other. They occur everywhere, always, at every scale, in constant proportion, whether or not matter is present to reveal them.
+These are not two separate effects caused by densification. They are what densification *is*, geometrically — like meshed gears turning in opposite directions from a single motion. You cannot have one without the other. They occur everywhere, always, at every scale, in constant proportion, whether or not matter is present to reveal them.
 
 Where matter is present, it reveals these geometric aspects by finding volumetric equilibrium between them. The equilibrium point is set by c. This determines matter's constant proper volume — nucleon size, atomic structure, molecular bonds, macroscopic stability. All binding energies derive from this single equilibrium, at different scales.
 
-*downstream*The wake is what matter leaves behind as it maintains this equilibrium while traversing into denser states. The wake is  of convergence/divergence — a consequence of matter finding equilibrium, not the cause of it.
+The wake is what matter leaves behind as it maintains this equilibrium while traversing into denser states. The wake is *downstream* of convergence/divergence — a consequence of matter finding equilibrium, not the cause of it.
 
 The logical sequence:
 
 1. Densification (the postulate)
 
-*is*2. Convergence and divergence (what densification )
+2. Convergence and divergence (what densification *is*)
 
 3. Matter finding equilibrium (where matter is present)
 
@@ -426,13 +426,13 @@ With this foundation established, we can now present PSK's interpretation of gra
 
 PSK offers a different picture, grounded in a single process: spatial densification at rate c.
 
-*is*Densification  two geometric aspects operating simultaneously — convergence (a drawing-together) and divergence (space accumulating between points proportional to distance). These are not separate effects; they are what densification looks like geometrically, like meshed gears turning in opposite directions from a single motion. They occur everywhere, always, at every scale, in constant proportion — whether or not matter is present to reveal them.
+Densification *is* two geometric aspects operating simultaneously — convergence (a drawing-together) and divergence (space accumulating between points proportional to distance). These are not separate effects; they are what densification looks like geometrically, like meshed gears turning in opposite directions from a single motion. They occur everywhere, always, at every scale, in constant proportion — whether or not matter is present to reveal them.
 
 Where matter is present, it finds volumetric equilibrium between convergence and divergence. The equilibrium point is set by c. This is what determines matter's constant proper volume — the scale at which matter balances convergence and divergence as it traverses into denser states.
 
-*wake**is*Matter maintaining this equilibrium as it traverses into denser spatial states leaves a temporal gradient in the density field — a . The wake encodes matter's density-state history: at earlier times (lower density states), the same matter occupied a different geometric relationship to surrounding space. This history persists as a gradient structure pointing toward where matter  in the ongoing densification process.
+Matter maintaining this equilibrium as it traverses into denser spatial states leaves a temporal gradient in the density field — a *wake*. The wake encodes matter's density-state history: at earlier times (lower density states), the same matter occupied a different geometric relationship to surrounding space. This history persists as a gradient structure pointing toward where matter *is* in the ongoing densification process.
 
-*through**with**temporal*A crucial clarification: this gradient is not a spatial wake trailing behind moving matter, as a boat leaves a wake in water. Matter is not moving  the spatial medium; it is moving  it as it densifies. The gradient is fundamentally 
+A crucial clarification: this gradient is not a spatial wake trailing behind moving matter, as a boat leaves a wake in water. Matter is not moving *through* the spatial medium; it is moving *with* it as it densifies. The gradient is fundamentally *temporal*
 
 *equilibrium solution* — the configuration the density field naturally assumes around matter maintaining constant proper volume. There is no boundary, no surface — just a smooth gradient extending from matter outward to infinity, persisting as long as matter exists.
 
@@ -458,15 +458,15 @@ PSK does not attempt to derive general relativity from its postulates. Rather, i
 
 #### Purpose
 
-*substrate mechanism*Newton provides a quantitative law for gravitational attraction. General relativity provides a geometric description in which motion follows geodesics in curved spacetime. PSK targets a different layer of explanation: a proposed  for why a gravitational geometry exists at all, while remaining consistent with the established empirical success of Newtonian and relativistic descriptions.
+Newton provides a quantitative law for gravitational attraction. General relativity provides a geometric description in which motion follows geodesics in curved spacetime. PSK targets a different layer of explanation: a proposed *substrate mechanism* for why a gravitational geometry exists at all, while remaining consistent with the established empirical success of Newtonian and relativistic descriptions.
 
 To be precise about what each framework provides:
 
 **Newton: **A force law and potential. The inverse-square relationship is stated as empirical fact. No physical substrate or mechanism is specified for why masses attract.
 
-**General Relativity: ***within**why*A geometric field theory. Curvature is the mechanism  the theory—but GR does not specify a substrate-level  the geometry takes the form it does, beyond the postulated field equations.
+**General Relativity: **A geometric field theory. Curvature is the mechanism *within* the theory—but GR does not specify a substrate-level *why* the geometry takes the form it does, beyond the postulated field equations.
 
-**PSK: ***inevitable*A candidate substrate story that proposes to make the observed geometry feel —a consequence of spatial densification and matter's volume preservation within it.
+**PSK: **A candidate substrate story that proposes to make the observed geometry feel *inevitable*—a consequence of spatial densification and matter's volume preservation within it.
 
 #### The Causal Chain
 
@@ -474,7 +474,7 @@ PSK proposes gravitation emerges from the following sequence:
 
 **1. The single process: **Space densifies uniformly and isotropically at constant rate c.
 
-**2. Two geometric aspects: ***is*Densification  convergence and divergence — drawing-together and spreading-apart — operating simultaneously, everywhere, at all scales, in constant proportion. This occurs whether or not matter is present.
+**2. Two geometric aspects: **Densification *is* convergence and divergence — drawing-together and spreading-apart — operating simultaneously, everywhere, at all scales, in constant proportion. This occurs whether or not matter is present.
 
 **3. Equilibrium: **Where matter is present, it finds volumetric equilibrium between convergence and divergence. The equilibrium point is set by c. This determines matter's constant proper volume: V(t)ρ(t) = V₀ρ₀ = constant.
 
@@ -486,9 +486,9 @@ PSK proposes gravitation emerges from the following sequence:
 
 #### The Mechanism Claim
 
-*is*Spatial density ρ increases everywhere at rate c. This densification  convergence and divergence — two geometric aspects in constant proportion. Where matter is present, it finds volumetric equilibrium between these aspects, maintaining constant proper volume.
+Spatial density ρ increases everywhere at rate c. This densification *is* convergence and divergence — two geometric aspects in constant proportion. Where matter is present, it finds volumetric equilibrium between these aspects, maintaining constant proper volume.
 
-*because*In tested regimes this is a re-description of GR's geodesics, but it supplies a causal substrate: the gradient exists  the substrate densifies and matter finds volumetric equilibrium within it.
+In tested regimes this is a re-description of GR's geodesics, but it supplies a causal substrate: the gradient exists *because* the substrate densifies and matter finds volumetric equilibrium within it.
 
 #### Derivation Scaffold
 
@@ -534,13 +534,13 @@ The effect is identical. The mechanism differs.
 
 ### The Equivalence Principle as Identity
 
-*reason*Einstein's equivalence principle states that gravitational mass and inertial mass are equivalent — an observer in a closed box cannot distinguish between sitting stationary in a gravitational field and accelerating through empty space. Einstein took this as a profound clue leading to general relativity, but the  for the equivalence remains unexplained within GR. It is treated as an empirical fact upon which the theory builds.
+Einstein's equivalence principle states that gravitational mass and inertial mass are equivalent — an observer in a closed box cannot distinguish between sitting stationary in a gravitational field and accelerating through empty space. Einstein took this as a profound clue leading to general relativity, but the *reason* for the equivalence remains unexplained within GR. It is treated as an empirical fact upon which the theory builds.
 
-*identical*PSK proposes that gravitational and inertial mass are not merely equivalent but  — the same phenomenon, not two phenomena that happen to match.
+PSK proposes that gravitational and inertial mass are not merely equivalent but *identical* — the same phenomenon, not two phenomena that happen to match.
 
 **In a gravitational field: **You are in a region of density gradient — the wake left by matter maintaining volumetric equilibrium as it traverses densifying space. This gradient affects how you traverse density states. Your feet occupy a different density region than your head. You experience this as weight.
 
-**Accelerating through empty space: ***like**is*You are changing your trajectory through densifying space. Acceleration means altering your path through density states. This is not merely  being in a gravitational field — it  the same geometric relationship between your matter and the density structure.
+**Accelerating through empty space: **You are changing your trajectory through densifying space. Acceleration means altering your path through density states. This is not merely *like* being in a gravitational field — it *is* the same geometric relationship between your matter and the density structure.
 
 The equivalence is not a coincidence requiring explanation. It is an identity to be recognized.
 
@@ -556,7 +556,7 @@ This asymmetry is fundamental to PSK. Space is the dynamic substrate. Matter is 
 
 ### What PSK Clarifies
 
-**Why gravity is always attractive: ***is*The wake is a temporal gradient pointing toward where matter  in the densification process — always toward the denser-future direction where matter maintains equilibrium. Other matter and light follow this gradient. There is no configuration that produces repulsion.
+**Why gravity is always attractive: **The wake is a temporal gradient pointing toward where matter *is* in the densification process — always toward the denser-future direction where matter maintains equilibrium. Other matter and light follow this gradient. There is no configuration that produces repulsion.
 
 **Why gravity propagates at c: **The densification rate is c. The wake is the equilibrium configuration of the density field around matter traversing at rate c. Changes to the wake structure cannot propagate faster than the process creating it.
 
@@ -606,7 +606,13 @@ Frame dragging and gravitational waves are not separate phenomena requiring sepa
 
 ### Wake Geometry vs. Spacetime Curvature
 
-PSK's density wake and general relativity's spacetime curvature perform the same explanatory role. Both describe how mass affects the space around it, both extend to infinity, both produce identical observable effects in familiar regimes:**Property****General Relativity****PSK**
+PSK's density wake and general relativity's spacetime curvature perform the same explanatory role. Both describe how mass affects the space around it, both extend to infinity, both produce identical observable effects in familiar regimes:
+
+**Property**
+
+**General Relativity**
+
+**PSK**
 
 The critical difference is not in observable predictions but in causal direction. General relativity posits mutual action: matter tells spacetime how to curve, spacetime tells matter how to move. PSK posits asymmetric passivity: space densifies (the sole action), matter rides the densification and leaves a wake (passive consequence), other matter responds to the wake (passive response).
 
@@ -639,7 +645,7 @@ Light consists of photons—massless particles that also behave as waves—trave
 
 *temporal state mapping* — causal connections between matter that was geometrically contiguous in a past density state. These state-mapping channels are the geometry through which the convergence aspect of densification operates: matter following gradients toward other matter, mediated by their shared density-state history.
 
-**Two complementary views: ***static**dynamic*State-sharing is the  view of electromagnetic connection—the geometric fact that you and the star intersect at a historical density layer. Propagation is the  view—perturbations evolving along those mapping structures as densification proceeds. Light doesn't move through space, but the density field evolves dynamically, producing the appearance of propagation. Part XVII develops the mathematical framework for this dynamic evolution.
+**Two complementary views: **State-sharing is the *static* view of electromagnetic connection—the geometric fact that you and the star intersect at a historical density layer. Propagation is the *dynamic* view—perturbations evolving along those mapping structures as densification proceeds. Light doesn't move through space, but the density field evolves dynamically, producing the appearance of propagation. Part XVII develops the mathematical framework for this dynamic evolution.
 
 ### The Speed of Light Reinterpreted
 
@@ -671,7 +677,7 @@ How does light travel from source to observer? How do radio waves connect transm
 
 The conventional picture says: electromagnetic radiation propagates through space as waves or photons, traveling at c until absorbed.
 
-**state-mapping through geometric intersection**PSK offers a different picture: .
+PSK offers a different picture: **state-mapping through geometric intersection**.
 
 #### A Puzzle Dissolved
 
@@ -691,9 +697,9 @@ With this puzzle dissolved, we can develop the full picture.
 
 #### Continuous Coincidence
 
-*intersect*Consider yourself and the sun. At t(now), you are 93 million miles apart, with void between you. But in a density state 8 minutes sparser than now, your coordinate footprints were larger. In that sparser layer, your volumes  — you are geometrically coincident with the sun.
+Consider yourself and the sun. At t(now), you are 93 million miles apart, with void between you. But in a density state 8 minutes sparser than now, your coordinate footprints were larger. In that sparser layer, your volumes *intersect* — you are geometrically coincident with the sun.
 
-**continuously coincident**This intersection is not a historical event that happened and ended. It is an ongoing geometric fact. You are  with the sun at that historical density state, right now, as you read this.
+This intersection is not a historical event that happened and ended. It is an ongoing geometric fact. You are **continuously coincident** with the sun at that historical density state, right now, as you read this.
 
 #### State-Sharing at Intersection
 
@@ -765,7 +771,7 @@ A laser cavity consists of two mirrors facing each other, with a gain medium bet
 
 PSK offers a different picture.
 
-**approaching each other through the density-state structure**The two mirrors are matter. They are continuously coincident with each other at a historical density state corresponding to their separation. As space densifies, this state of intersection becomes progressively denser — the mirrors are, in a sense, .
+The two mirrors are matter. They are continuously coincident with each other at a historical density state corresponding to their separation. As space densifies, this state of intersection becomes progressively denser — the mirrors are, in a sense, **approaching each other through the density-state structure**.
 
 The coherence of laser light emerges because the cavity mirrors are continuously coincident, sharing state coherently. This shared state synchronizes the gain medium. The densification process drives the coherent buildup — the historical density state of intersection between the mirrors evolves at rate c, and the cavity geometry selects for states that constructively reinforce across this evolution.
 
@@ -799,7 +805,7 @@ Again, PSK does not claim to have derived the physics of semiconductor devices o
 
 #### Summary: The Geometry of Light
 
-**state-sharing between matter through geometric intersection**Electromagnetic phenomena — light, radio, heat radiation — are not waves or particles traveling through space. They are  in the density-state structure.
+Electromagnetic phenomena — light, radio, heat radiation — are not waves or particles traveling through space. They are **state-sharing between matter through geometric intersection** in the density-state structure.
 
 All matter is continuously coincident with all other matter at some historical density state. The distance between objects determines the layer at which they intersect. State is shared at these intersections. The inverse square law emerges from the geometry of intersection at sparser density states.
 
@@ -820,9 +826,9 @@ This framing treats the speed limit as geometric, built into the structure of sp
 
 PSK proposes that the speed limit is not geometric but causal — and crucially, not absolute but relational. The c horizon is where cumulative divergence has accumulated to recession velocity c; beyond this, state-mapping (causal connection) ceases.
 
-*relative to yourself*The constraint is this: you cannot accelerate something past c . Beyond c relative to you, you lose causal connection with it. State-mapping between you and the object ceases. You have nothing to push on.
+The constraint is this: you cannot accelerate something past c *relative to yourself*. Beyond c relative to you, you lose causal connection with it. State-mapping between you and the object ceases. You have nothing to push on.
 
-*others*But you can freely exceed c relative to  by accelerating yourself, because you are always at rest relative to yourself. You never approach your own horizon. The constraint applies to what you can do to other things, not to what you can do to yourself.
+But you can freely exceed c relative to *others* by accelerating yourself, because you are always at rest relative to yourself. You never approach your own horizon. The constraint applies to what you can do to other things, not to what you can do to yourself.
 
 ### Two Scenarios
 
@@ -846,9 +852,9 @@ At c, the proton would cross your horizon. You could not interact with it. You w
 
 The speed limit is asymmetric. You cannot accelerate an object past c relative to yourself — you lose causal connection, leaving nothing to push on. But you can exceed c relative to others by accelerating yourself — you are always at rest relative to yourself.
 
-*with*In the rocket, you accelerate  your reference frame. You are always stationary in your own frame, always fully causally connected to yourself and your immediate environment. There is no horizon you approach from the inside.
+In the rocket, you accelerate *with* your reference frame. You are always stationary in your own frame, always fully causally connected to yourself and your immediate environment. There is no horizon you approach from the inside.
 
-*away from*In the accelerator, you attempt to accelerate something  your frame while you remain stationary. The object approaches your horizon. Interaction weakens. At c, interaction ceases.
+In the accelerator, you attempt to accelerate something *away from* your frame while you remain stationary. The object approaches your horizon. Interaction weakens. At c, interaction ceases.
 
 This is why the same acceleration — say, 1g equivalent — that would eventually push a rocket past c relative to Earth cannot push a proton past c in an accelerator. In the rocket, you are accelerating yourself — you never approach any horizon. In the accelerator, you are accelerating something else — it approaches your horizon.
 
@@ -925,7 +931,7 @@ Matter 13.8 billion light-years away was always approximately that far away in t
 
 PSK offers a different interpretation: 4.6 billion years marks the critical density threshold — when matter universally achieved spatial separation. The radiometric clocks throughout the cosmos all started simultaneously. We date to 4.6 billion years not because our solar system happened to form then, but because discrete atoms became possible anywhere only then.
 
-*radiometric**radiometrically dated*If PSK is correct,  dating of any material anywhere in the universe would yield approximately 4.6 billion years. No  sample could be older, because radioactive decay requires discrete atoms, which did not exist before the critical threshold. This prediction concerns direct isotope-ratio measurements—not model-derived ages from stellar evolution or other theory-laden methods.
+If PSK is correct, *radiometric* dating of any material anywhere in the universe would yield approximately 4.6 billion years. No *radiometrically dated* sample could be older, because radioactive decay requires discrete atoms, which did not exist before the critical threshold. This prediction concerns direct isotope-ratio measurements—not model-derived ages from stellar evolution or other theory-laden methods.
 
 **A recent test: **In September 2023, NASA's OSIRIS-REx mission returned samples from asteroid Bennu — primordial material that has remained largely unaltered since the early solar system. Radiometric analysis dated these samples to approximately 4.5-4.6 billion years, consistent with Earth, Moon, and meteorite ages.
 
@@ -993,7 +999,15 @@ The equilibrium size of a nucleus and the equilibrium of the Hubble radius are b
 
 #### The Scale Continuum
 
-The following table shows how the same two effects — convergence and divergence — manifest across all scales:**Scale****Divergence****Convergence****Observable Equilibrium**
+The following table shows how the same two effects — convergence and divergence — manifest across all scales:
+
+**Scale**
+
+**Divergence**
+
+**Convergence**
+
+**Observable Equilibrium**
 
 The divergence column is constant: rate c, everywhere. The convergence column varies: steep near concentrated matter, negligible in voids. The observable equilibrium column shows what we actually measure — the residual after these two effects mostly cancel.
 
@@ -1130,7 +1144,7 @@ Diffraction gratings create multiple geometric channels (one per slit), with the
 
 ### The PSK Interpretation: Measurement as State Sharing
 
-*state sharing*PSK proposes that measurement is not mysterious observation from outside a system but  between matter — joining an equilibrium relationship. When you measure a quantum system, your measuring apparatus couples with the system and equilibrates to a shared configuration. Measurement is matter joining the convergence/divergence equilibrium that other matter already occupies.
+PSK proposes that measurement is not mysterious observation from outside a system but *state sharing* between matter — joining an equilibrium relationship. When you measure a quantum system, your measuring apparatus couples with the system and equilibrates to a shared configuration. Measurement is matter joining the convergence/divergence equilibrium that other matter already occupies.
 
 Consider how we measure anything. A balance beam measures mass by sharing gravitational state—the sample's density gradient interacts with the beam's atomic binding. A thermometer measures temperature by equilibrating with the sample—literally joining its temperature trajectory. A quantum detector measures a qubit by sharing state with it.
 
@@ -1231,7 +1245,15 @@ The law is exactly inverse square—not approximately—because it derives from 
 
 ### Force Unification
 
-PSK reduces the four fundamental forces to one geometric process plus one correction mechanism. The equilibrium between convergence and divergence—both consequences of spatial densification—operates at every scale. What changes is not the process but what we call it:**Scale****System****Observable Effect****Standard Name**
+PSK reduces the four fundamental forces to one geometric process plus one correction mechanism. The equilibrium between convergence and divergence—both consequences of spatial densification—operates at every scale. What changes is not the process but what we call it:
+
+**Scale**
+
+**System**
+
+**Observable Effect**
+
+**Standard Name**
 
 Every row in this table is the same process: spatial densification producing convergence (drawing matter together via wake gradients) and divergence (metric expansion pushing matter apart). The equilibrium between these effects determines structure at each scale.
 
@@ -1270,7 +1292,7 @@ The cloud chamber trail emerges because the left-behind particle exists at a pri
 
 **The PSK interpretation: **
 
-*all matter, continuously*This implies neutrinos are not only produced by nuclear reactions but by , simply by existing and traversing densification. The flux should be proportional to the amount of matter, not its energy state. Neutrinos come from wherever matter is—from Earth, from the Sun (due to its greater mass, not primarily its fusion), from your own body.
+This implies neutrinos are not only produced by nuclear reactions but by *all matter, continuously*, simply by existing and traversing densification. The flux should be proportional to the amount of matter, not its energy state. Neutrinos come from wherever matter is—from Earth, from the Sun (due to its greater mass, not primarily its fusion), from your own body.
 
 The mapping errors that leave neutrinos behind occur primarily in the nucleus, where the equilibrium maintenance is most demanding. Heavier, less stable nuclei have more complex equilibrium requirements and thus higher rates of mapping errors.
 
@@ -1658,13 +1680,13 @@ Special relativity's time dilation is often presented as: velocity causes time t
 
 Velocity is a consequence of having accelerated. The dilation accumulated during acceleration persists, but it is the acceleration (density displacement) that caused it, not the velocity that resulted.
 
-*not**is*This distinction matters: a distant galaxy receding at Hubble velocity c is  time-dilated relative to us, because it never accelerated. A rocket that accelerated to near c  time-dilated, because the acceleration displaced it in the density field. Popular explanations conflate these cases because the stretching/expanding model does not distinguish between Hubble velocity and inertial velocity. PSK does.
+This distinction matters: a distant galaxy receding at Hubble velocity c is *not* time-dilated relative to us, because it never accelerated. A rocket that accelerated to near c *is* time-dilated, because the acceleration displaced it in the density field. Popular explanations conflate these cases because the stretching/expanding model does not distinguish between Hubble velocity and inertial velocity. PSK does.
 
 **PSK clarification: **There was no Big Bang in this sense. There was no singularity. There was no beginning. Matter has existed eternally, first as contiguous primordial plasma in infinitely sparse space, now as separated structures with voids between them.
 
 ### Why These Misconceptions Persist
 
-*within the standard framework's assumptions*These explanations persist because they are useful approximations that match observations . If you assume space is stretching, then the raisin bread model follows logically. If you assume a beginning, then an age calculation makes sense.
+These explanations persist because they are useful approximations that match observations *within the standard framework's assumptions*. If you assume space is stretching, then the raisin bread model follows logically. If you assume a beginning, then an age calculation makes sense.
 
 PSK offers different foundational assumptions (densification rather than expansion, eternal rather than finite age) that dissolve the paradoxes and eliminate the need for endless qualifications. Whether PSK's assumptions better match reality is an empirical question. But they demonstrate that the popular explanations are not the only way to interpret the observations.
 
@@ -1703,7 +1725,7 @@ The central thesis of this Part: phenomena constrain the mathematical structure 
 
 ### The Single Source of Discontinuity
 
-*is*Recall that densification 
+Recall that densification *is*
 
 **The PSK Claim: **Space itself is smooth—the densification process that constitutes time flows without granularity. There is no Planck-scale pixelation, no fundamental discreteness to the spatial continuum. In this smooth geometric background, matter state transitions are the only source of discontinuity-like events.
 
@@ -1785,9 +1807,9 @@ This connection between transition statistics and spectral shape points toward a
 
 ### Blackbody Radiation: Equilibrium Across Density States
 
-**emission discreteness comes from matter states, not field quantization.**The Planck distribution governing thermal radiation provides the most famous intersection of thermodynamics and quantum mechanics. PSK offers a geometric reinterpretation with a key insight: 
+The Planck distribution governing thermal radiation provides the most famous intersection of thermodynamics and quantum mechanics. PSK offers a geometric reinterpretation with a key insight: **emission discreteness comes from matter states, not field quantization.**
 
-**Empirical Facts: **Any object in thermal equilibrium emits electromagnetic radiation with a spectrum depending only on its temperature: B(ν,T) = (2hν³/c²)·1/[exp(hν/kT) − 1]. This Planck distribution has been verified to extraordinary precision. The COBE FIRAS instrument measured the cosmic microwave background with deviations from perfect Planck form less than 50 parts per million of peak brightness.
+**Empirical Facts: **
 
 **Standard Interpretation: **Planck's 1900 resolution of the ultraviolet catastrophe introduced quantized energy exchange: oscillators emit and absorb radiation only in discrete quanta E = hν. Later development framed this in terms of photons as quantized field excitations, with Bose-Einstein statistics governing their thermal distribution.
 
@@ -1910,13 +1932,13 @@ To connect PSK with fluid dynamics, we must map PSK's geometric quantities onto 
 
 #### 1. The Density Field ρ(x,t)
 
-**spatial density***in**of*In standard fluid dynamics, ρ represents mass density—how much material occupies each point in space. In PSK, ρ(x,t) represents —the geometric property of the spatial substrate itself, as defined in Part I. This is not the density of something  space, but the density  space.
+In standard fluid dynamics, ρ represents mass density—how much material occupies each point in space. In PSK, ρ(x,t) represents **spatial density**—the geometric property of the spatial substrate itself, as defined in Part I. This is not the density of something *in* space, but the density *of* space.
 
 The background densification proceeds uniformly at rate c. Local perturbations—density wakes around matter, transient disturbances from transitions—superimpose on this background.
 
 #### 2. The Flow Velocity Field u(x,t)
 
-**deviation field**In fluid dynamics, u represents the velocity of fluid elements. In PSK, there is no material flowing. Instead, u(x,t) represents the 
+In fluid dynamics, u represents the velocity of fluid elements. In PSK, there is no material flowing. Instead, u(x,t) represents the **deviation field**
 
 **Definition: **In PSK hydrodynamics, u(x,t) denotes the local rate at which the density field deviates from uniform densification, induced by matter wakes and transition-generated perturbations. It is not the velocity of a substance but the evolution rate of geometric irregularity in the density field.
 
@@ -1926,7 +1948,7 @@ The background densification proceeds uniformly at rate c. Local perturbations�
 
 **u_perturbation(x,t)** — dynamic fluctuations from discrete transition events. This is what we call noise. Each matter transition kicks the density field; these kicks propagate outward, interact, and dissipate. This component is time-varying and stochastically forced.
 
-**u(x,t) = u_gravity(x) + u_perturbation(x,t)**The total deviation field is: 
+The total deviation field is: **u(x,t) = u_gravity(x) + u_perturbation(x,t)**
 
 This decomposition clarifies the relationship between gravity and noise: both are deviations from uniform densification, but gravity is the static geometry of matter's presence while noise is the dynamic response to matter's transitions. They emerge from the same underlying field but operate in different regimes.
 
@@ -1940,7 +1962,7 @@ This provides a natural equation of state: p = p(ρ), where pressure increases w
 
 #### 4. The Viscosity Terms μ, ν
 
-**dissipation rate of perturbations**In fluid dynamics, viscosity represents internal friction—the tendency of velocity gradients to dissipate through momentum diffusion. In PSK, viscosity corresponds to the —how quickly the density field reabsorbs local disturbances and returns to smooth densification. High viscosity means perturbations dissipate quickly; low viscosity means they persist and propagate.
+In fluid dynamics, viscosity represents internal friction—the tendency of velocity gradients to dissipate through momentum diffusion. In PSK, viscosity corresponds to the **dissipation rate of perturbations**—how quickly the density field reabsorbs local disturbances and returns to smooth densification. High viscosity means perturbations dissipate quickly; low viscosity means they persist and propagate.
 
 The kinematic viscosity ν = μ/ρ has dimensions of length²/time. In PSK, this would be determined by fundamental properties of the density field—potentially derivable from c and other geometric parameters.
 
@@ -1998,9 +2020,9 @@ Under the PSK dictionary:
 
 #### Critical Caveats
 
-**structural parallel**We present this equation as a , not as a derived result. The actual governing equations of PSK density perturbations may differ in important ways: the nonlinear term may have different structure, additional terms may be required for compressibility effects, the equation of state p(ρ) is not yet determined, and boundary conditions at matter surfaces require careful treatment.
+We present this equation as a **structural parallel**, not as a derived result. The actual governing equations of PSK density perturbations may differ in important ways: the nonlinear term may have different structure, additional terms may be required for compressibility effects, the equation of state p(ρ) is not yet determined, and boundary conditions at matter surfaces require careful treatment.
 
-*form*What we claim is that the  of hydrodynamic equations—partial differential equations with advection, pressure, diffusion, and forcing terms—is the appropriate mathematical framework for PSK density perturbations. The specific coefficients and terms require derivation from first principles, which remains future work.
+What we claim is that the *form* of hydrodynamic equations—partial differential equations with advection, pressure, diffusion, and forcing terms—is the appropriate mathematical framework for PSK density perturbations. The specific coefficients and terms require derivation from first principles, which remains future work.
 
 Whether the PSK density field behaves as a compressible or effectively incompressible medium depends on the equation of state p(ρ), which remains undetermined. This distinction matters: incompressible flow assumes infinite sound speed, while compressible flow introduces additional wave phenomena. Given PSK's finite propagation speed (≤ c), a compressible formulation is likely required. The incompressible Navier-Stokes equation presented above serves as a structural analogy—illustrating the form of the governing equations—not as a literal model of PSK dynamics.
 
@@ -2173,17 +2195,17 @@ This section addresses anticipated objections, acknowledges limitations, clarifi
 
 A critical distinction that readers must hold clearly involves three numbers that standard cosmology often conflates.
 
-**13.8 billion light-years ***spatial*is the Hubble radius. This is a  measure: the distance at which Hubble recession velocity equals c. It defines the horizon of causal connectivity. It is not a duration. It is not an age. It is how far away matter can be while remaining causally connected to us.
+**13.8 billion light-years **is the Hubble radius. This is a *spatial* measure: the distance at which Hubble recession velocity equals c. It defines the horizon of causal connectivity. It is not a duration. It is not an age. It is how far away matter can be while remaining causally connected to us.
 
 **13.8 billion years **
 
-**4.6 billion years ***is*is the time since the critical density threshold. This  a temporal duration — the time elapsed since matter achieved spatial separation, discrete atoms became possible, and radiometric clocks began. This is when structure emerged, not when existence began.
+**4.6 billion years **is the time since the critical density threshold. This *is* a temporal duration — the time elapsed since matter achieved spatial separation, discrete atoms became possible, and radiometric clocks began. This is when structure emerged, not when existence began.
 
-*eternal*It is easy to misread the 4.6 Gyr structure claim as a young-universe proposal. That would be incorrect: PSK explicitly posits an  universe, with 4.6 billion years referring only to the onset of discrete structure—the critical density threshold—not to the origin of existence. The universe existed before this threshold, as contiguous primordial plasma in infinitely sparse space. Matter existed. Space existed. Densification was occurring. But there were no discrete atoms, no voids, no structures, no radiometric decay. 4.6 billion years is the age of structure, not the age of existence.
+It is easy to misread the 4.6 Gyr structure claim as a young-universe proposal. That would be incorrect: PSK explicitly posits an *eternal* universe, with 4.6 billion years referring only to the onset of discrete structure—the critical density threshold—not to the origin of existence. The universe existed before this threshold, as contiguous primordial plasma in infinitely sparse space. Matter existed. Space existed. Densification was occurring. But there were no discrete atoms, no voids, no structures, no radiometric decay. 4.6 billion years is the age of structure, not the age of existence.
 
 ### On the Scope of PSK
 
-*candidate**might*This concern is legitimate. PSK does not claim to have unified physics. It claims to have identified a  unifying principle and explored its consequences qualitatively. The difference matters. A complete unified theory would derive all known physics from first principles with quantitative precision. PSK offers a conceptual framework suggesting such derivation  be possible.
+This concern is legitimate. PSK does not claim to have unified physics. It claims to have identified a *candidate* unifying principle and explored its consequences qualitatively. The difference matters. A complete unified theory would derive all known physics from first principles with quantitative precision. PSK offers a conceptual framework suggesting such derivation *might* be possible.
 
 PSK is not a finished theory. It is a research program — a set of assumptions to be tested, developed, and potentially falsified.
 
@@ -2199,7 +2221,7 @@ Not all claims are equally testable. PSK's assertions fall into three categories
 
 **Falsifiable predictions **are claims where PSK predicts something different from standard physics and experiments could distinguish between them. These include: neutrino flux proportional to mass (all matter emits neutrinos continuously); no time dilation from Hubble recession (only acceleration causes dilation); local Hubble effect (metric expansion detectable at small scales); galaxy rotation curves without dark matter; maximum radiometric age of approximately 4.6 billion years. These are where PSK will succeed or fail scientifically.
 
-**Interpretive reframings ***why*are claims where PSK offers a different explanation for the same observations. The predictions match; the interpretation differs. These include: light as state-mapping versus photon propagation; gravity as density gradient versus spacetime curvature; entanglement as past contiguity versus fundamental correlation; strong force as steep gradient versus gluon exchange. If operationally equivalent, the choice is philosophical — but PSK's explanations of  phenomena work may still be valuable.
+**Interpretive reframings **are claims where PSK offers a different explanation for the same observations. The predictions match; the interpretation differs. These include: light as state-mapping versus photon propagation; gravity as density gradient versus spacetime curvature; entanglement as past contiguity versus fundamental correlation; strong force as steep gradient versus gluon exchange. If operationally equivalent, the choice is philosophical — but PSK's explanations of *why* phenomena work may still be valuable.
 
 **Metaphysical commitments **
 
@@ -2261,7 +2283,7 @@ This is a serious challenge. Stellar ages are inferred from models that depend o
 
 Without varying constants, it is unclear how stellar evolution could proceed differently than standard models predict. The options are limited: identify an error in stellar dating methods (no specific error identified), modify the critical density timeline (would undermine core PSK claims), or accept this as a potential falsification.
 
-**open problem requiring resolution**PSK cannot currently explain why globular cluster stars appear 12-13 billion years old if discrete atoms have only existed for 4.6 billion years. This is flagged as an . PSK's credibility in cosmology depends on finding a mechanism consistent with invariant constants, modifying the timeline, or accepting potential falsification. The stellar age problem remains an unresolved tension between PSK and observational astrophysics.
+PSK cannot currently explain why globular cluster stars appear 12-13 billion years old if discrete atoms have only existed for 4.6 billion years. This is flagged as an **open problem requiring resolution**. PSK's credibility in cosmology depends on finding a mechanism consistent with invariant constants, modifying the timeline, or accepting potential falsification. The stellar age problem remains an unresolved tension between PSK and observational astrophysics.
 
 ### On the Invariance of Fundamental Constants
 
@@ -2360,9 +2382,7 @@ Whether this is true, we cannot say. But it is a picture worth considering.
 
 **References:**
 
-*Progress in Physics*Wade, S. (2013). Proper Space Kinematics. , 2, 29–34. https://www.progress-in-physics.com/2013/PP-33-08.PDF
-
-Wade, S. (2014). Proper Space Kinematics [Video presentation]. https://youtu.be/ftbbLpRPgZs
+Wade, S. (2013). Proper Space Kinematics. *Progress in Physics*, 2, 29–34. https://www.progress-in-physics.com/2013/PP-33-08.PDF
 
 ### Key Similarities
 
@@ -2411,7 +2431,7 @@ The two frameworks share a foundational insight but diverge significantly in the
 
 ### Introduction
 
-*prospectus*This treatise presents Proper Space Kinematics as a —a clear statement of what the framework proposes, why it might merit investigation, and where it currently stands relative to established physics. PSK is not a finished theory. It is a research program in its earliest stages.
+This treatise presents Proper Space Kinematics as a *prospectus*—a clear statement of what the framework proposes, why it might merit investigation, and where it currently stands relative to established physics. PSK is not a finished theory. It is a research program in its earliest stages.
 
 The conceptual architecture is now sufficiently developed to identify the specific mathematical problems that must be solved for PSK to advance from interpretive framework to quantitative science. This appendix catalogs those problems, assesses their difficulty, and describes what solving each would accomplish.
 
@@ -2599,7 +2619,7 @@ Blackbody radiation follows the Planck distribution. Standard derivations requir
 
 **Approach hints: **Part XVI sketches this: temperature measures equilibration mismatch; transitions are geometric kicks; the spectrum reflects the statistical distribution of kicks across frequencies. The derivation must yield the exact Planck formula, not an approximation.
 
-**Success criterion: **B(ν,T) = (2hν³/c²) · 1/[exp(hν/kT) − 1] derived from PSK postulates.
+**Success criterion: **
 
 #### 5.2 Johnson Noise
 
@@ -2615,13 +2635,13 @@ The thermal noise voltage across a resistor follows the Nyquist formula V² = 4k
 
 Not all problems are equally urgent. A suggested research sequence:
 
-**Phase 1 — Establish Foundation:***Rationale:* Derive wake profile (1.1), derive Johnson noise formula (5.2), formalize perturbation equations (2.2).  These are tractable and establish that PSK's basic machinery works.
+**Phase 1 — Establish Foundation:** Derive wake profile (1.1), derive Johnson noise formula (5.2), formalize perturbation equations (2.2). *Rationale:* These are tractable and establish that PSK's basic machinery works.
 
-**Phase 2 — Demonstrate Equivalence:***Rationale:* Reproduce perihelion precession (3.1), Shapiro delay (3.2), gravitational lensing (3.3).  These are the classic GR tests. Success here validates the equivalence claim.
+**Phase 2 — Demonstrate Equivalence:** Reproduce perihelion precession (3.1), Shapiro delay (3.2), gravitational lensing (3.3). *Rationale:* These are the classic GR tests. Success here validates the equivalence claim.
 
-**Phase 3 — Address Challenges:***Rationale:* Derive equation of state (1.2), explain supernova stretching (4.1), derive Planck spectrum (5.1).  These are harder but necessary for PSK to be taken seriously.
+**Phase 3 — Address Challenges:** Derive equation of state (1.2), explain supernova stretching (4.1), derive Planck spectrum (5.1). *Rationale:* These are harder but necessary for PSK to be taken seriously.
 
-**Phase 4 — Ultimate Tests:***Rationale:* Reproduce LIGO waveforms (3.4), derive CMB acoustic peaks (4.2), formalize superluminal claim (1.3).  These require the full formalism and may take years.
+**Phase 4 — Ultimate Tests:** Reproduce LIGO waveforms (3.4), derive CMB acoustic peaks (4.2), formalize superluminal claim (1.3). *Rationale:* These require the full formalism and may take years.
 
 ### Invitation
 
@@ -2638,15 +2658,135 @@ This appendix consolidates PSK's testable claims, identifying where the framewor
 
 ### Major Open Challenges
 
-These represent serious tensions between PSK and current observations. Resolution is required for PSK to remain viable.**Claim****PSK Prediction****Falsifying Observation****Status****Hubble Recession Time Dilation**No time dilation from Hubble velocity; only acceleration causes dilation.Confirmed (1+z) supernova light curve stretching specifically attributable to relativistic time dilation from recession velocity.**UNRESOLVED** — Most serious empirical challenge. See Part II, Part VI, Discussion.**Stellar Age Problem**No discrete matter older than ~4.6 Gyr (when atoms became possible at ρ_critical).Model-independent stellar ages significantly exceeding 4.6 Gyr that cannot be reinterpreted within PSK framework.**TENSION** — Globular cluster ages (12-13 Gyr) are model-derived but represent serious challenge. See Discussion.**CMB Acoustic Peaks**Peak structure must emerge from plasma oscillations at ρ_critical transition or density field resonances.Inability to derive observed acoustic peak positions and amplitudes from PSK geometry.**NOT YET DEMONSTRATED** — Quantitative derivation required. See Part XVI, Appendix B.
+These represent serious tensions between PSK and current observations. Resolution is required for PSK to remain viable.
+
+**Claim**
+
+**PSK Prediction**
+
+**Falsifying Observation**
+
+**Status**
+
+**Hubble Recession Time Dilation**
+
+No time dilation from Hubble velocity; only acceleration causes dilation.
+
+Confirmed (1+z) supernova light curve stretching specifically attributable to relativistic time dilation from recession velocity.
+
+**UNRESOLVED** — Most serious empirical challenge. See Part II, Part VI, Discussion.
+
+**Stellar Age Problem**
+
+No discrete matter older than ~4.6 Gyr (when atoms became possible at ρ_critical).
+
+Model-independent stellar ages significantly exceeding 4.6 Gyr that cannot be reinterpreted within PSK framework.
+
+**TENSION** — Globular cluster ages (12-13 Gyr) are model-derived but represent serious challenge. See Discussion.
+
+**CMB Acoustic Peaks**
+
+Peak structure must emerge from plasma oscillations at ρ_critical transition or density field resonances.
+
+Inability to derive observed acoustic peak positions and amplitudes from PSK geometry.
+
+**NOT YET DEMONSTRATED** — Quantitative derivation required. See Part XVI, Appendix B.
 
 ### Distinct Predictions (Not Yet Tested)
 
-These are claims where PSK predicts something different from standard physics. Experiments could distinguish between them.**Claim****PSK Prediction****Falsifying Observation****Status****Neutrino Emission from Stable Matter**All matter continuously emits low-level neutrinos proportional to mass (leaving behind during equilibrium maintenance).High-sensitivity null detection from stable matter at sufficient threshold to rule out mass-proportional emission.**NOT YET TESTED** — Requires next-generation neutrino detectors. See Part XI.**Radiometric Age Ceiling**No radiometrically dated sample anywhere in the universe can exceed ~4.6 Gyr.Verified radiometric ages (isotope ratios, not model-derived) exceeding 4.6 Gyr for extrasolar material.**CONSISTENT** — Bennu samples date to ~4.5 Gyr. Extrasolar sample-return would provide stronger test.**Galaxy Rotation Without Dark Matter**Flat rotation curves emerge from initial velocity correlations at ρ_critical plus wake interactions — no invisible mass required.Demonstration that PSK cannot reproduce observed rotation curves without additional mass or modification.**DERIVATION PENDING** — Simulation required. See Part XIII.**Local Hubble Effect**Metric expansion (divergence) operates at all scales, potentially detectable locally with sufficient precision.Definitive proof that metric expansion is absent at sub-galactic scales.**NOT YET TESTED** — Current precision insufficient. See Part VI.
+These are claims where PSK predicts something different from standard physics. Experiments could distinguish between them.
+
+**Claim**
+
+**PSK Prediction**
+
+**Falsifying Observation**
+
+**Status**
+
+**Neutrino Emission from Stable Matter**
+
+All matter continuously emits low-level neutrinos proportional to mass (leaving behind during equilibrium maintenance).
+
+High-sensitivity null detection from stable matter at sufficient threshold to rule out mass-proportional emission.
+
+**NOT YET TESTED** — Requires next-generation neutrino detectors. See Part XI.
+
+**Radiometric Age Ceiling**
+
+No radiometrically dated sample anywhere in the universe can exceed ~4.6 Gyr.
+
+Verified radiometric ages (isotope ratios, not model-derived) exceeding 4.6 Gyr for extrasolar material.
+
+**CONSISTENT** — Bennu samples date to ~4.5 Gyr. Extrasolar sample-return would provide stronger test.
+
+**Galaxy Rotation Without Dark Matter**
+
+Flat rotation curves emerge from initial velocity correlations at ρ_critical plus wake interactions — no invisible mass required.
+
+Demonstration that PSK cannot reproduce observed rotation curves without additional mass or modification.
+
+**DERIVATION PENDING** — Simulation required. See Part XIII.
+
+**Local Hubble Effect**
+
+Metric expansion (divergence) operates at all scales, potentially detectable locally with sufficient precision.
+
+Definitive proof that metric expansion is absent at sub-galactic scales.
+
+**NOT YET TESTED** — Current precision insufficient. See Part VI.
 
 ### Consistency Requirements
 
-These are claims where PSK must match established physics. Deviation would falsify the framework.**Claim****PSK Prediction****Falsifying Observation****Status****Match with GR (Tested Regimes)**Wake geometry must reproduce all GR predictions: orbital precession, lensing, time dilation, frame dragging, gravitational waves.Any deviation from GR predictions in solar system dynamics, binary pulsars, or gravitational wave observations.**DESIGNED FOR MATCH** — Formal equivalence proof pending. See Part III, Appendix B.**Recovery of Newtonian Gravity**Far-field wake gradients must produce exact inverse-square (1/r²) behavior.Inability to derive inverse-square law from PSK postulate and geometry.**ANSATZ USED** — Empirically required form adopted; derivation from first principles pending.**Invariance of c**c is the universal densification rate; identical for all inertial observers.Observer-dependent variation in measured c or anisotropic light speed.**CONSISTENT** — All precision tests confirm c invariance.**Gravity Always Attractive**Wake gradients always point toward mass; no configuration produces repulsion.Verified repulsive gravity between neutral bodies in vacuum.**CONSISTENT** — No such observation exists.**Continuity of Space**Space is mathematically continuous; no Planck-scale discreteness. Convergence and divergence operate at all scales without limit.Experimental proof of spacetime granularity or Lorentz invariance violation at small scales.**CONSISTENT** — No evidence of discreteness found.
+These are claims where PSK must match established physics. Deviation would falsify the framework.
+
+**Claim**
+
+**PSK Prediction**
+
+**Falsifying Observation**
+
+**Status**
+
+**Match with GR (Tested Regimes)**
+
+Wake geometry must reproduce all GR predictions: orbital precession, lensing, time dilation, frame dragging, gravitational waves.
+
+Any deviation from GR predictions in solar system dynamics, binary pulsars, or gravitational wave observations.
+
+**DESIGNED FOR MATCH** — Formal equivalence proof pending. See Part III, Appendix B.
+
+**Recovery of Newtonian Gravity**
+
+Far-field wake gradients must produce exact inverse-square (1/r²) behavior.
+
+Inability to derive inverse-square law from PSK postulate and geometry.
+
+**ANSATZ USED** — Empirically required form adopted; derivation from first principles pending.
+
+**Invariance of c**
+
+c is the universal densification rate; identical for all inertial observers.
+
+Observer-dependent variation in measured c or anisotropic light speed.
+
+**CONSISTENT** — All precision tests confirm c invariance.
+
+**Gravity Always Attractive**
+
+Wake gradients always point toward mass; no configuration produces repulsion.
+
+Verified repulsive gravity between neutral bodies in vacuum.
+
+**CONSISTENT** — No such observation exists.
+
+**Continuity of Space**
+
+Space is mathematically continuous; no Planck-scale discreteness. Convergence and divergence operate at all scales without limit.
+
+Experimental proof of spacetime granularity or Lorentz invariance violation at small scales.
+
+**CONSISTENT** — No evidence of discreteness found.
 
 ### Summary of Empirical Status
 
@@ -2657,4 +2797,3 @@ These are claims where PSK must match established physics. Deviation would falsi
 **Consistency requirements: **GR match (designed but not proven), Newtonian gravity (ansatz), c invariance (consistent), attractive-only gravity (consistent), space continuity (consistent).
 
 PSK stands or falls on these criteria. The framework explicitly acknowledges its major challenges and invites empirical adjudication.
-
