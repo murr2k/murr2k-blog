@@ -9,12 +9,12 @@ title: Home
   </header>
 
   <div class="section-cards">
-    
-    <a href="{{ '/physics/' | relative_url }}" class="section-card physics">
-      <div class="card-icon">📘</div>
-      <h2>Proper Space Kinematics</h2>
-      <p>A theoretical framework proposing gravity as spatial density gradients rather than spacetime curvature.</p>
-      <span class="card-meta">{{ site.physics | size }} chapters</span>
+
+    <a href="{{ '/papers/' | relative_url }}" class="section-card papers">
+      <div class="card-icon">📄</div>
+      <h2>Research Papers</h2>
+      <p>Theoretical physics research exploring alternative frameworks for understanding fundamental phenomena.</p>
+      <span class="card-meta">{{ site.papers | size }} papers</span>
     </a>
 
     <a href="{{ '/ai/' | relative_url }}" class="section-card ai">

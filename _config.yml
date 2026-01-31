@@ -13,15 +13,16 @@ author:
 markdown: kramdown
 highlighter: rouge
 
+kramdown:
+  toc_levels: "2"
+
 # Collections - each becomes a section
 collections:
-  physics:
+  papers:
     output: true
-    permalink: /physics/:path/
-    order:
-      - 01-introduction.md
-      - 02-proper-space-kinematics.md
-      - 03-spatial-density.md
+    permalink: /papers/:path/
+  physics:
+    output: false
   ai:
     output: true
     permalink: /ai/:path/
@@ -31,6 +32,12 @@ collections:
 
 # Default front matter
 defaults:
+  - scope:
+      path: ""
+      type: "papers"
+    values:
+      layout: "paper"
+      section: "papers"
   - scope:
       path: ""
       type: "physics"

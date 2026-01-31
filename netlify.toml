@@ -6,11 +6,111 @@
   RUBY_VERSION = "3.2"
   JEKYLL_ENV = "production"
 
-# Redirects (add custom redirects here)
-# [[redirects]]
-#   from = "/old-path"
-#   to = "/new-path"
-#   status = 301
+# Redirects from old physics chapters to new consolidated paper
+[[redirects]]
+  from = "/physics/"
+  to = "/papers/"
+  status = 301
+
+[[redirects]]
+  from = "/physics/00-introduction/"
+  to = "/papers/proper-space-kinematics/#introduction-a-different-picture-of-the-universe"
+  status = 301
+
+[[redirects]]
+  from = "/physics/01-foundations/"
+  to = "/papers/proper-space-kinematics/#part-i-foundations"
+  status = 301
+
+[[redirects]]
+  from = "/physics/02-nature-of-time/"
+  to = "/papers/proper-space-kinematics/#part-ii-the-nature-of-time"
+  status = 301
+
+[[redirects]]
+  from = "/physics/03-gravitation/"
+  to = "/papers/proper-space-kinematics/#part-iii-gravitation"
+  status = 301
+
+[[redirects]]
+  from = "/physics/04-light-electromagnetism/"
+  to = "/papers/proper-space-kinematics/#part-iv-light-and-electromagnetism"
+  status = 301
+
+[[redirects]]
+  from = "/physics/05-speed-limit/"
+  to = "/papers/proper-space-kinematics/#part-v-the-relational-nature-of-the-speed-limit"
+  status = 301
+
+[[redirects]]
+  from = "/physics/06-cosmology/"
+  to = "/papers/proper-space-kinematics/#part-vi-cosmology"
+  status = 301
+
+[[redirects]]
+  from = "/physics/07-thermodynamics/"
+  to = "/papers/proper-space-kinematics/#part-vii-thermodynamics-and-entropy"
+  status = 301
+
+[[redirects]]
+  from = "/physics/08-double-slit/"
+  to = "/papers/proper-space-kinematics/#part-viii-the-double-slit-experiment"
+  status = 301
+
+[[redirects]]
+  from = "/physics/09-quantum-phenomena/"
+  to = "/papers/proper-space-kinematics/#part-ix-quantum-phenomena"
+  status = 301
+
+[[redirects]]
+  from = "/physics/10-nuclear-force/"
+  to = "/papers/proper-space-kinematics/#part-x-the-strong-nuclear-force-and-force-unification"
+  status = 301
+
+[[redirects]]
+  from = "/physics/11-nuclear-processes/"
+  to = "/papers/proper-space-kinematics/#part-xi-nuclear-processes"
+  status = 301
+
+[[redirects]]
+  from = "/physics/12-continuity/"
+  to = "/papers/proper-space-kinematics/#part-xii-continuity-and-the-absence-of-planck-scale"
+  status = 301
+
+[[redirects]]
+  from = "/physics/13-open-questions/"
+  to = "/papers/proper-space-kinematics/#part-xiii-open-questions"
+  status = 301
+
+[[redirects]]
+  from = "/physics/14-established-frameworks/"
+  to = "/papers/proper-space-kinematics/#part-xiv-relationship-to-established-frameworks"
+  status = 301
+
+[[redirects]]
+  from = "/physics/15-popular-explanations/"
+  to = "/papers/proper-space-kinematics/#part-xv-addressing-popular-physics-explanations"
+  status = 301
+
+[[redirects]]
+  from = "/physics/16-discussion/"
+  to = "/papers/proper-space-kinematics/#part-xviii-discussion"
+  status = 301
+
+[[redirects]]
+  from = "/physics/17-conclusion/"
+  to = "/papers/proper-space-kinematics/#conclusion"
+  status = 301
+
+[[redirects]]
+  from = "/physics/18-glossary/"
+  to = "/papers/proper-space-kinematics/#glossary-of-terms"
+  status = 301
+
+[[redirects]]
+  from = "/physics/19-appendix-a/"
+  to = "/papers/proper-space-kinematics/#appendix-a-comparison-with-sean-wades-proper-space-kinematics"
+  status = 301
 
 # Headers for security
 [[headers]]

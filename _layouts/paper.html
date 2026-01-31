@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+<body>
+  <nav class="site-nav">
+    <div class="nav-container">
+      <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
+      <div class="nav-links">
+        <a href="{{ '/papers/' | relative_url }}">Papers</a>
+        <a href="{{ '/ai/' | relative_url }}">AI</a>
+        <a href="{{ '/linkedin/' | relative_url }}">LinkedIn</a>
+      </div>
+    </div>
+  </nav>
+
+  <div class="paper-layout">
+    <!-- Sidebar overlay for mobile -->
+    <div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+    <!-- TOC Sidebar -->
+    <aside class="paper-sidebar" id="paperSidebar">
+      <div class="paper-sidebar-header">
+        <h2>Contents</h2>
+        <div class="paper-meta">{{ page.author }}</div>
+      </div>
+      <nav>
+        <ul class="paper-toc">
+          <li><a href="#introduction-a-different-picture-of-the-universe">Introduction</a></li>
+          <li><a href="#authors-note">Author's Note</a></li>
+          <li><a href="#acknowledgment">Acknowledgment</a></li>
+          <li><a href="#preface">Preface</a></li>
+          <li><a href="#part-i-foundations">Part I: Foundations</a></li>
+          <li><a href="#part-ii-the-nature-of-time">Part II: Time</a></li>
+          <li><a href="#part-iii-gravitation">Part III: Gravitation</a></li>
+          <li><a href="#part-iv-light-and-electromagnetism">Part IV: Light</a></li>
+          <li><a href="#part-v-the-relational-nature-of-the-speed-limit">Part V: Speed Limit</a></li>
+          <li><a href="#part-vi-cosmology">Part VI: Cosmology</a></li>
+          <li><a href="#part-vii-thermodynamics-and-entropy">Part VII: Thermodynamics</a></li>
+          <li><a href="#part-viii-the-double-slit-experiment">Part VIII: Double-Slit</a></li>
+          <li><a href="#part-ix-quantum-phenomena">Part IX: Quantum</a></li>
+          <li><a href="#part-x-the-strong-nuclear-force-and-force-unification">Part X: Nuclear Force</a></li>
+          <li><a href="#part-xi-nuclear-processes">Part XI: Nuclear Processes</a></li>
+          <li><a href="#part-xii-continuity-and-the-absence-of-planck-scale">Part XII: Continuity</a></li>
+          <li><a href="#part-xiii-open-questions">Part XIII: Open Questions</a></li>
+          <li><a href="#part-xiv-relationship-to-established-frameworks">Part XIV: Frameworks</a></li>
+          <li><a href="#part-xv-addressing-popular-physics-explanations">Part XV: Popular Explanations</a></li>
+          <li><a href="#part-xvi-noise-entropy-and-the-geometry-of-fluctuation">Part XVI: Noise & Entropy</a></li>
+          <li><a href="#part-xvii-spatial-hydrodynamics--the-navier-stokes-connection">Part XVII: Hydrodynamics</a></li>
+          <li><a href="#part-xviii-discussion">Part XVIII: Discussion</a></li>
+          <li><a href="#conclusion">Conclusion</a></li>
+          <li><a href="#glossary-of-terms">Glossary</a></li>
+          <li><a href="#appendix-a-comparison-with-sean-wades-proper-space-kinematics">Appendix A</a></li>
+          <li><a href="#appendix-b-research-agenda--open-mathematical-problems">Appendix B</a></li>
+          <li><a href="#appendix-c-falsifiability-criteria">Appendix C</a></li>
+        </ul>
+      </nav>
+    </aside>
+
+    <!-- Paper Content -->
+    <main class="paper-content">
+      <header class="paper-header">
+        <h1>{{ page.title }}</h1>
+        {% if page.subtitle %}
+        <p class="subtitle">{{ page.subtitle }}</p>
+        {% endif %}
+        <p class="author">{{ page.author }}</p>
+        <div class="version-info">
+          <span>Version {{ page.version }}</span>
+          <span>{{ page.status }}</span>
+        </div>
+      </header>
+
+      <article class="paper-body">
+        {{ content }}
+      </article>
+    </main>
+  </div>
+
+  <!-- Mobile TOC toggle button -->
+  <button class="toc-toggle" id="tocToggle" aria-label="Toggle table of contents">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h7" />
+    </svg>
+  </button>
+
+  <footer class="site-footer">
+    <div class="footer-container">
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}</p>
+    </div>
+  </footer>
+
+  <script src="{{ '/assets/js/toc.js' | relative_url }}"></script>
+</body>
+</html>
